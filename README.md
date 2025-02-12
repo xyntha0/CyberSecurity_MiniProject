@@ -1,2 +1,1 @@
-# CyberSecurity_MiniProject
-CS02-CyberSecurity_Project
+# CS02-CyberSecurity_Project
